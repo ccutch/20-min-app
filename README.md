@@ -1,6 +1,6 @@
 # 20 minute app
 
-Quick little app testing how fast you can get up and running with react using steal. This application renders data from an endpoint hosted on [runkit](https://ccutch.runkit.io/quick-endpoint/branches/master). Which generates fake people, that data is then fed into a d3 react library and rendered (how ever far i get).
+Quick little app testing how fast you can get up and running with react using steal. This application renders data from an endpoint hosted on [runkit](https://runkit.com/ccutch/quick-endpoint) and [hosted at](https://ccutch.runkit.io/quick-endpoint/branches/master) . Which generates fake people, that data is then fed into a d3 react library and rendered (how ever far i get).
 In this app i am testing new libraries, styled-components, steal and rd3.
 
 ### Styled Components
