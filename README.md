@@ -15,7 +15,7 @@ Styled components seem like an awesome logical next step to css modules. As css 
     <img src="https://stealjs.com/docs/static/node_modules/bit-docs-docjs-theme/static/img/StealJS-Logo-V2.svg" alt="StealJS Logo" width="337" style="margin: 36px 0">
 </a>
 <br />
-Amazing transpilation library. Really does work out of the box. Handles common.js mapping, a problem i oftem had and stopped me from using system.js and gives you tools to test productions builds. Seems like a great library for new comers to frameworks like React and Angular which required compilation or transpolation. Because you use import statements and there is no configuration needed for es6 node developers and other "backend language" developers should feel more at home rather than trying to manage script tags.
+Amazing transpilation library. Really does work out of the box. Handles common.js mapping, a problem I often had and stopped me from using system.js and gives you tools to test productions builds. Seems like a great library for new comers to frameworks like React and Angular which required compilation or transpilation. Because you use import statements and there is no configuration needed for es6 node developers and other "backend language" developers should feel more at home rather than trying to manage script tags.
 
 
 ### rd3
