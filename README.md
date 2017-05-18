@@ -15,7 +15,7 @@ Styled components seem like an awesome logical next step to css modules. As css 
     <img src="https://stealjs.com/docs/static/node_modules/bit-docs-docjs-theme/static/img/StealJS-Logo-V2.svg" alt="StealJS Logo" width="337" style="margin: 36px 0">
 </a>
 <br />
-Sadly I did save the worst for last. While this is the most up to date implementation of d3 in react that i could find it still did have some implementation concerns. First off, the library is still using the `React.createClass` function which has been deprecated -- as the console will tell you every time you render a component. Some build files seem to be missing (following the pattern node_modules/rd3/build/cjs/{filename}.js ) though i am not ruling out this being an issue with steal or bad path mapping. Overall i would love to see a fresh approach to d3 in react as most of the libraries are from the 0.12 era and, while being verbose and editable, gave me trouble implementing resulting in me doing a lot of data massagin with lodash and copy pasting a snippet from the rd3 website.
+Amazing transpilation library. Really does work out of the box. Handles common.js mapping, a problem i oftem had and stopped me from using system.js and gives you tools to test productions builds. Seems like a great library for new comers to frameworks like React and Angular which required compilation or transpolation. Because you use import statements and there is no configuration needed for es6 node developers and other "backend language" developers should feel more at home rather than trying to manage script tags.
 
 
 ### rd3
